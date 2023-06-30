@@ -1,0 +1,9 @@
+{
+  "name": "slow-down-my-friend",
+  "version": "0.1.0",
+  "title": "Slow Down My Friend",
+  "author": "Nevirone",
+  "factorio_version": "1.1",
+  "dependencies": ["base >= 1.1"],
+  "description": "This mod makes vehicles slow down faster. No more running after them."
+}
